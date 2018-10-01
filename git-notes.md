@@ -1,4 +1,5 @@
 # Course Notes
+
 ## Keep in mind when coding:
 - write code for humans not computers
 - write data for computers not humans
