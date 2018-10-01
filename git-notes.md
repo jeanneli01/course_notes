@@ -1,18 +1,18 @@
-#Course Notes
-##Keep in mind when coding:
+# Course Notes
+## Keep in mind when coding:
 - write code for humans not computers
 - write data for computers not humans
 - code using relative path for collaborations
 
-##Terminal vs Shell:
+## Terminal vs Shell:
 - terminal shows the results of shell
 - many types of shells exists; we use the Bash shell
 
-##Handy Tips:
+## Handy Tips:
 - /Users goes back to the root of the computer
 - use tab completion
 
-##Naming Files and More:
+## Naming Files and More:
 - avoid using spaces
 - instead of spaces, use: - dash or _ underscore
 - or choose to capitalize every first letter
